@@ -5,8 +5,8 @@ const float timeSec = 1 / 60.0;
 void ofApp::setup()
 {
     //loading media
-    mySound.load("Fireworks.wav");
-    mySound1.load("bgm.wav");
+    mySound1.load("Fireworks.wav");
+    mySound.load("bgm.wav");
     mySound.play();
     bg.load("background.jpg");
     ofBackground(0, 0, 0);
