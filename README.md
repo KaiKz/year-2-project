@@ -9,3 +9,10 @@ Vedio was not able to be submitted to VLE and Gitbub as it is too big, but it is
 
 Please find the data and scr file to compile using openframeworks
 
+Name of musics used in project: 烟花鞭炮声（纯录音) by FC风信 and 花火が瞬く夜に by 羽肿
+
+My project's topic was originally inspired by this picture I came across accidently, alongwith close caring to socail problems
+
+![背影](https://user-images.githubusercontent.com/118116534/212995413-f9917d1c-b9b4-4e56-b3cc-04664f3ac7ed.jpg)
+
+Source: https://new.qq.com/rain/a/20200704A0RLW800
