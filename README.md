@@ -1,18 +1,20 @@
-# PMC year-2-project
-Xcode to compile
+# Creative Project 2
+- Link to the Draw Your Mind App(final result):
+https://www.doc.gold.ac.uk/www/676/~kzhan002/app/Draw_Your_Mind/index.html
 
-So sorry for submitted late as my sound files and vedio were too too big
+- Link to Video Demonstration:
+https://CP2_VIDEO.super.site/
 
-Write-ups folder contains 2 pdf files, one for techinical aspects, incluing a description about the general coding thought development, another pdf contains my research and references
+-Notion link to show all related information about the final implementation and its detailed interaction explanation: https://CP2_FINAL.super.site/
 
-Vedio was not able to be submitted to VLE and Gitbub as it is too big, but it is on Youtube, here is the link: https://youtu.be/SjIaeaZixv0
+Rubric breakdown:
+Part 1: Project Organization and time management specification via the link:
+https://CP2_TIMELINE.super.site/
+Part 2: Please find the Technical execution specification via the link:
+https://CP2_CODE.super.site/
+Part 3: Please find the submission: Creative Project Report.pdf - Links in the report: https://CP2_REPORT.super.site/
+Owing to the size and resolution of the visual media, all such content in this report (including Pictures, Miro, Notion, etc.) has been transformed into links within footnotes, which direct to the appropriate media displays as needed.
+Part 4: Please find the creative risk specifications via the link:
+https://CP2_FUTURE_POTENTIAL.super.site/
 
-Please find the data and scr file to compile using openframeworks
-
-Name of musics used in project: 烟花鞭炮声（纯录音) by FC风信 and 花火が瞬く夜に by 羽肿
-
-My project's topic was originally inspired by this picture I came across accidently, alongwith close caring to socail problems
-
-![背影](https://user-images.githubusercontent.com/118116534/212995413-f9917d1c-b9b4-4e56-b3cc-04664f3ac7ed.jpg)
-
-Source: https://new.qq.com/rain/a/20200704A0RLW800
+# Video Demonstration:
