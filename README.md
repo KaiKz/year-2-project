@@ -1,5 +1,5 @@
 # Creative Project 2
-- Link to the Draw Your Mind App(final result):
+- Link to the live Draw Your Mind App deployed on Goldsmiths' virtual server:
 https://www.doc.gold.ac.uk/www/676/~kzhan002/app/Draw_Your_Mind/index.html
 
 - Link to Video Demonstration:
