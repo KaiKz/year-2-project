@@ -10,7 +10,8 @@ Notion link to show all related information about the final implementation and i
 Rubric breakdown:
 Part 1: Project Organization and time management specification via the link:
 https://CP2-TIMELINE.super.site/
-<img width="1042" alt="Screenshot 2023-06-04 at 14 30 25" src="https://github.com/KaiKz/year-2-project/assets/118116534/37cf9686-d8da-47a4-b576-4f604c6cdff3">
+<img width="1654" alt="Screenshot 2023-06-04 at 14 33 02" src="https://github.com/KaiKz/year-2-project/assets/118116534/dc78e6aa-54b6-4134-954f-627f2514958d">
+
 
 Part 2: Please find the Technical execution specification via the link:
 https://CP2-CODE.super.site/
