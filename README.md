@@ -79,7 +79,7 @@ ect/files/11643487/UX.Testing_.Summary.of.the.results.pdf)
 
 
 
-<img width="1658" alt="Screenshot 2023-06-04 at 14 29 46" src="https://github.com/KaiKz/year-2-project/assets/118116534/3f3978c1-3b49-498f-beb4-4d55c2d3f942">
+
 <img width="1042" alt="Screenshot 2023-06-04 at 14 30 25" src="https://github.com/KaiKz/year-2-project/assets/118116534/1f76eec9-7a0d-42a4-9033-f2854d8d6ed2">
 
 
