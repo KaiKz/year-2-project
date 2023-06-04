@@ -10,13 +10,13 @@ Notion link to show all related information about the final implementation and i
 Rubric breakdown:
 Part 1: Project Organization and time management specification via the link:
 https://CP2-TIMELINE.super.site/
-<img width="1654" alt="Screenshot 2023-06-04 at 14 33 02" src="https://github.com/KaiKz/year-2-project/assets/118116534/dc78e6aa-54b6-4134-954f-627f2514958d">
-
 
 Part 2: Please find the Technical execution specification via the link:
 https://CP2-CODE.super.site/
+
 Part 3: Please find the submission: Creative Project Report.pdf - Links in the report: https://CP2-REPORT.super.site/
 Owing to the size and resolution of the visual media, all such content in this report (including Pictures, Miro, Notion, etc.) has been transformed into links within footnotes, which direct to the appropriate media displays as needed.
+
 Part 4: Please find the creative risk specifications via the link:
 https://CP2-FUTURE-POTENTIAL.super.site/
 
@@ -38,7 +38,8 @@ Here's a more detailed breakdown for each emotion:
 - **Angry**: The Angry score increases with the use of Square and Spiral brushes. It also increases with the use of colours that have high saturation but low brightness.
 
 # Timeline(Miro Board):
-https://miro.com/app/board/uXjVMIO74tE=/?share_link_id=270579620140
+<img width="1654" alt="Screenshot 2023-06-04 at 14 33 02" src="https://github.com/KaiKz/year-2-project/assets/118116534/ed1d22d6-acda-4d0f-a951-9e68b39a5a7e">
+Link: https://miro.com/app/board/uXjVMIO74tE=/?share_link_id=270579620140
 
 Download documents mentioned in the Timeline:
 [Angry Mode Challenge_ User Feedback Survey .pdf](https://github.com/KaiKz/year-2-project/files/11643474/Angry.Mode.Challenge_.User.Feedback.Survey.pdf)
@@ -100,7 +101,9 @@ ect/files/11643487/UX.Testing_.Summary.of.the.results.pdf)
 # Experiment A: Personalised Conversation
 
 Miro:
-https://miro.com/app/board/uXjVP7HC2hk=/?share_link_id=304439511243
+<img width="759" alt="Screenshot 2023-06-04 at 14 35 45" src="https://github.com/KaiKz/year-2-project/assets/118116534/b6a7f779-1d3a-48fc-bc72-82e550897fb5">
+
+Link: https://miro.com/app/board/uXjVP7HC2hk=/?share_link_id=304439511243
 <img width="546" alt="Screenshot 2023-05-18 at 09 59 21" src="https://github.com/KaiKz/year-2-project/assets/118116534/2774b69a-6334-4413-8419-d235ef557769">
 
 In this diagram:
